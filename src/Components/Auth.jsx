@@ -6,7 +6,7 @@ function Auth() {
     return (
 
         <div>
-
+hello
         </div>
     )
 }

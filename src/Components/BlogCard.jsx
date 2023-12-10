@@ -2,12 +2,13 @@ import "./BlogCard.css"
 function BlogCard() {
 
     return(
-        <form>
-<label>
-    Name
-    <input type="text" name="name"/>
-</label>
-        </form>
+        <div>Form</div>
+//         <form>
+// <label>
+//     Name
+//     <input type="text" name="name"/>
+// </label>
+//         </form>
     )
 }
 export default BlogCard;
