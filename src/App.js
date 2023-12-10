@@ -1,11 +1,12 @@
 import './App.css';
+// import BlogCard from './Components/BlogCard';
+import Home from './View/Home';
 
 function App() {
   return (
     <div className="App">
-      <header>
-        This is the header
-      </header>
+      <Home/>
+{/* <BlogCard/> */}
     </div>
   );
 }
